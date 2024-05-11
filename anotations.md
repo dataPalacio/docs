@@ -1,21 +1,30 @@
 # DOCS PESSOAIS #
 Docmuentação básicas feita para armazenar em um só lugar.
-### Verificando versões do Python
+### Comandos gerais com bibliotecas
+#### Checagem de versão
   > python --version 
 
-### Instalando o jupyter
-> pip install jupyter
+#### Instalando uma biblioteca
+> pip install pandas
 
+#### Atualizando biblioteca
+> pip install pandas --upgrade
 
-### 3. Abrindo e navegando o jupyter pelo CMD 
+#### Principais comandos do CMD 
 - diretorio original: `C:\Users\gustavo`
 - voltando diretorio: `cd..`
 - listando diretorio: `dir`
 - limpar tela do prompt: `cls`
 - avançar diretorio **de C:\Users:** → **para  C:\Users\gustavo** : `cd gustavo`
 
-## principais comandos do CMD
-1. voltando diretório: cd..
+### Abrindo o jupyter notebook
+- voltando um diretorio: `C:\Users\gustavo>cd..`
+- voltando um diretorio: `C:\Users>cd..`
+- acessando um diretorio `C:\>cd g_arquivos`
+- criando uma pasta `C:\g_arquivos>mkdir maio24`
+- acessando a pasta criada `C:\g_arquivos>cd maio24`
+- abrindo o jupyter notebook `C:\g_arquivos\maio24>jupyter notebook`
+
 
 ## LINKS UTEIS
 1. Markdown online - [Dillinger]
