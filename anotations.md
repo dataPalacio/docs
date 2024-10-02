@@ -1,4 +1,4 @@
-# DOCS PESSOAIS #
+# DOCS #
 Docmuentação básicas feita para armazenar em um só lugar.
 ### Comandos gerais com bibliotecas
 #### Checagem de versão
